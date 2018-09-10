@@ -1,0 +1,15 @@
+{
+  "name": "bulk-calendar-invite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^33.0.0",
+    "inquirer": "^6.2.0"
+  }
+}

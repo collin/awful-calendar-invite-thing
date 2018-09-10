@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+export GOOGLE_APPLICATION_CREDENTIALS="$HOME/.google-auth-keys.json"
+node script/invite.js
+
